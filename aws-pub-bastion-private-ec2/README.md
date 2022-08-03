@@ -105,7 +105,11 @@ The infrastructure below has been deployed using Terraform; an open-source infra
 
 ## Reference:
  
-[medium](https://towardsdatascience.com/connecting-to-an-ec2-instance-in-a-private-subnet-on-aws-38a3b86f58fb)
+[medium-bastion](https://towardsdatascience.com/connecting-to-an-ec2-instance-in-a-private-subnet-on-aws-38a3b86f58fb)
+[medium-vpc-endpoints](https://medium.com/awesome-cloud/aws-vpc-endpoints-overview-intro-getting-started-guide-91ca23b5af8d)
+[medium-vpc-endpoint-s3](https://medium.com/tensult/creating-vpc-endpoint-for-amazon-s3-using-terraform-7a15c840d36f)
+[medium-vpc-peering](https://medium.com/tensult/vpc-peering-using-terraform-105d554ed04d)
+[medium-instance-profile](https://medium.com/aws-in-plain-english/ec2-iam-role-iam-instance-profile-as-code-4fae66e05651)
  
 ## Author:
 Satya Sure
