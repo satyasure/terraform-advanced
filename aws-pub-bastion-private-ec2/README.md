@@ -103,6 +103,9 @@ The next step is deploying the required infrastructure using Terraform.
 
 The infrastructure below has been deployed using Terraform; an open-source infrastructure as code software (and the best thing since sliced bread!).
 
-
+## Reference:
+ 
+[medium](https://towardsdatascience.com/connecting-to-an-ec2-instance-in-a-private-subnet-on-aws-38a3b86f58fb)
+ 
 ## Author:
 Satya Sure
